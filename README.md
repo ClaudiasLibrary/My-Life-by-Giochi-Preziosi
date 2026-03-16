@@ -37,5 +37,5 @@ The purpose of this repository is to collect and preserve as much information as
 Collaborations are welcome.
 
 ## Sources
-http://videogamekraken.com/my-life-by-giochi-preziosi
-https://manualmachine.com/giochipreziosi/consolemylife/7120280-user-manual/
+- http://videogamekraken.com/my-life-by-giochi-preziosi
+- https://manualmachine.com/giochipreziosi/consolemylife/7120280-user-manual/
