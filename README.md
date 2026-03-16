@@ -31,6 +31,10 @@ The expansion cartridges, on the other hand, are full blown game cartridges with
 - **Infrared port:** its activation is linked to interacting with the My Life post office clerk. Consoles must face each other and be at a maximum distance of 1 m.
 - **Batteries:** 3 × 1.5 V AAA
 
+## [Emulation and Hacking](emulationhacking)
+
+Current state of art
+
 
 ## About this repository
 The purpose of this repository is to collect and preserve as much information as possible about a niche, nearly forgotten console. All research is conducted for informational and educational purposes only.
