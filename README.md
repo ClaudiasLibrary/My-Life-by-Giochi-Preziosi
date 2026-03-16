@@ -12,6 +12,8 @@ Released in Italy in 2007, the My Life was a huge success for Giochi Preziosi. T
 ## Cartridges
 The console has two types of cartridges : the magic keys and the expansion cartridges. Although the magic keys insert in the cartridge slot, they seem to only unlock digital assets already present in the handheld, therefore not containing any data. The expansion cartridges, on the other hand, are full blown game cartridges with an extra connector to allow special magic keys, that only work with each expansion cartridge, to be connected. Only 3 of these expansion cartridges were ever made: My World Club Disco, Hannah Montana and Summer Party.
 
+![Expansions](expansions.png)
+
 ## About this repository
 The purpose of this repository is to collect and preserve as much information as possible about a niche, nearly forgotten console. All research is conducted for informational and educational purposes only.
 Collaborations are welcome.
