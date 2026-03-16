@@ -20,7 +20,7 @@ Although the magic keys insert in the cartridge slot, *they seem to only unlock 
 ### Expansion cartridges
 The expansion cartridges, on the other hand, are full blown game cartridges with an extra connector to allow special magic keys, that only work with each expansion cartridge, to be connected. Only 3 of these expansion cartridges were ever made: My World Club Disco, Hannah Montana and Summer Party.
 
-![Expansions](expansions)
+![Expansions](images/expansions.png)
 
 ## Functions
 **Game controller:** 4-way directional pad for moving the character and navigating the MENU.
