@@ -12,7 +12,7 @@ Released in Italy in 2007, the My Life was a huge success for Giochi Preziosi. T
 ## Cartridges
 The console has two types of cartridges: the magic keys and the expansion cartridges.
 
-###[Magic Keys](Magic_Keys)
+### [Magic Keys](Magic_Keys)
 Although the magic keys insert in the cartridge slot, *they seem to only unlock digital assets already present in the handheld, therefore not containing any data.* 
 
 ![Magic Keys](https://m.media-amazon.com/images/I/51VjN-fcczL.jpg)
