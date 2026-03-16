@@ -35,9 +35,19 @@ The expansion cartridges, on the other hand, are full blown game cartridges with
 
 Current state of art
 
+## [My research](research.md)
+This project aims to research and document the My Life console, a niche and largely forgotten electronic toy system.
+I am a computer security student, and My Life was one of the consoles from my childhood. Since little technical information about this device exists and no public emulation project has been developed, this repository was created to study the system in depth.
 
-## About this repository
-The purpose of this repository is to collect and preserve as much information as possible about a niche, nearly forgotten console. All research is conducted for informational and educational purposes only.
+The goal is to:
+- document the hardware and software architecture of the console
+- analyze the firmware and cartridge system
+- study how the device communicates with accessories (such as cards or infrared features)
+- explore the technical requirements for future emulation
+- preserve information about the system for research and archival purposes
+
+All research is conducted for educational, documentation, and preservation purposes.
+
 Collaborations are welcome.
 
 ## Sources
