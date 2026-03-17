@@ -14,4 +14,4 @@ You will find the new clothes directly in your virtual wardrobe, and you will be
 You can also find the new clothes in the SPECIAL section of the shop.
 The infrared port allows you to send your new clothes to your friends in the real world.
 
-![MagicKeys](images/magickeys.png)
+![MagicKeys](magickeys.png)
