@@ -4,7 +4,7 @@
   - Combined chip: MCU + flash (64Mbit)  
   - Likely handles main firmware, I/O, IR, display
 - SPY0030A HS011 0522 MSE02717
-  - Co-processor, maybe IR / input controller
+  - Audio Driver
 - AF0724 24BC02SINGLP
   - EEPROM 2Kb (I2C, stores user data)
 - Big black blob
