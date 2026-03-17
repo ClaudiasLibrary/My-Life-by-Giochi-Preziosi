@@ -22,15 +22,6 @@ The expansion cartridges, on the other hand, are full blown game cartridges with
 
 ![Expansions](expansions/expansions.png)
 
-## Functions
-- **Game controller:** 4-way directional pad for moving the character and navigating the MENU.
-- **Buttons A and B:** buttons used to interact with characters, confirm, cancel, or return to the previous function.
-- **Heart Button:** button to access the game MENU.
-- **ON/OFF Button:** located on the back, used to turn the console on and off.
-- **Cartridge compartment:** located at the back of the console, used to insert GIFT CARDS.
-- **Infrared port:** its activation is linked to interacting with the My Life post office clerk. Consoles must face each other and be at a maximum distance of 1 m.
-- **Batteries:** 3 × 1.5 V AAA
-
 ## [Emulation](emulation/emulation.md)
 
 Current state of art
