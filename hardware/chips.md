@@ -14,6 +14,12 @@
 
 ## Secondary PCB: my life key-02b.PCB LEFT Ver:007 RL T-0 E243103
 - Dedicated to console input (buttons)
-- 
+### Functions
+- **Game controller:** 4-way directional pad for moving the character and navigating the MENU.
+- **Buttons A and B:** buttons used to interact with characters, confirm, cancel, or return to the previous function.
+- **Heart Button:** button to access the game MENU.
+- **ON/OFF Button:** located on the back, used to turn the console on and off.
+- **Batteries:** 3 × 1.5 V AAA
+
 
 ![Secondary Board](images/secondary-board-front.HEIC)
