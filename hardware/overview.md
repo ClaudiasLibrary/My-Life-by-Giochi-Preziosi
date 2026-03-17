@@ -14,3 +14,4 @@
 
 ### Power / Batteries
 - 3x AAA 1.5V
+- VCC / GND routed to main PCB and secondary board
