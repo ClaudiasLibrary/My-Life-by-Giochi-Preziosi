@@ -21,5 +21,16 @@
 - **ON/OFF Button:** located on the back, used to turn the console on and off.
 - **Batteries:** 3 × 1.5 V AAA
 
-
 ![Secondary Board](images/secondary-board-front.HEIC)
+
+## IR LED
+- Located near front panel
+- Function: infrared communication between consoles
+
+![IR LED](images/ir-closeup.HEIC)
+
+## Magic Key Slot
+- Slot on main PCB
+- Pins not detailed for now
+
+![Magic Key Slot](images/main-board-back.HEIC)
