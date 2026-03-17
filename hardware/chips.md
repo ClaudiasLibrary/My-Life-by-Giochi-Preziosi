@@ -13,10 +13,7 @@
 ![Main Board](images/main-board.HEIC)
 
 ## Secondary PCB: my life key-02b.PCB LEFT Ver:007 RL T-0 E243103
-- Likely dedicated to Magic Key interface
-- Version / batch info:
-  - Ver:007 → PCB version
-  - RL T-0 → revision code
-  - E243103 → batch / fab code
+- Dedicated to console input (buttons)
+- 
 
 ![Secondary Board](images/secondary-board-front.HEIC)
