@@ -12,7 +12,7 @@ Released in Italy in 2007, the My Life was a huge success for Giochi Preziosi. T
 ## Cartridges
 The console has two types of cartridges: the magic keys and the expansion cartridges.
 
-### [Magic Keys](MagicKeys)
+### [Magic Keys](MagicKeys.md)
 Although the magic keys insert in the cartridge slot, *they seem to only unlock digital assets already present in the handheld, therefore not containing any data.* 
 
 ![Magic Keys](https://m.media-amazon.com/images/I/51VjN-fcczL.jpg)
@@ -20,7 +20,7 @@ Although the magic keys insert in the cartridge slot, *they seem to only unlock 
 ### Expansion cartridges
 The expansion cartridges, on the other hand, are full blown game cartridges with an extra connector to allow special magic keys, that only work with each expansion cartridge, to be connected. Only 3 of these expansion cartridges were ever made: My World Club Disco, Hannah Montana and Summer Party.
 
-![Expansions](images/expansions.png)
+![Expansions](expansions/expansions.png)
 
 ## Functions
 - **Game controller:** 4-way directional pad for moving the character and navigating the MENU.
@@ -31,7 +31,7 @@ The expansion cartridges, on the other hand, are full blown game cartridges with
 - **Infrared port:** its activation is linked to interacting with the My Life post office clerk. Consoles must face each other and be at a maximum distance of 1 m.
 - **Batteries:** 3 × 1.5 V AAA
 
-## [Emulation](emulation)
+## [Emulation](emulation/emulation.md)
 
 Current state of art
 
