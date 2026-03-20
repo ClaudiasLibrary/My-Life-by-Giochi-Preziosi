@@ -1,4 +1,4 @@
-# Emulation and Hacking
+# Emulation
 
 ## Current State of Emulation
 As of today, there is no publicly available working emulator. The console is considered a closed proprietary system, which means:
